@@ -143,7 +143,7 @@ else:
     )
 
 
- 
+   
 if (
     register_valid
     and email_valid
